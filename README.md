@@ -111,7 +111,7 @@ Me chamo Emanuel João, tenho 22 anos e sou natural de Angola, Luanda. Concluí 
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueljoao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=username=emanueljoao1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
