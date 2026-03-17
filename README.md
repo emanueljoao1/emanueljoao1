@@ -45,6 +45,16 @@ Me chamo Emanuel João, tenho 22 anos e sou natural de Angola, Luanda. Concluí 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="NodeJS" 
+    title="NodeJS"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+/>
+
 <img 
     align="left" 
     alt="React"
@@ -77,14 +87,7 @@ Me chamo Emanuel João, tenho 22 anos e sou natural de Angola, Luanda. Concluí 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
-<img 
-    align="left" 
-    alt="NodeJS" 
-    title="NodeJS"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
-/>
+
 <img 
     align="left" 
     alt="Python" 
@@ -107,7 +110,7 @@ Me chamo Emanuel João, tenho 22 anos e sou natural de Angola, Luanda. Concluí 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=emanuelJoao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=emanuelJoao1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-pt" 
   />
 
   <img 
