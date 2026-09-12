@@ -4,7 +4,7 @@
 #  Emanuel João
 
 **`Software Engineer | Desenvolvedor FullStack`** <br><br>
-Olá, seja bem-vindo ao meu perfil<br><br>
+Olá, seja bem-vindo ao meu perfil!<br>
 
 A tecnologia é, para mim, um espaço de criação, aprendizado e transformação.
 Busco desenvolver soluções digitais que unam lógica, criatividade e funcionalidade.
