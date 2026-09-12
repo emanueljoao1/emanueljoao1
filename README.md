@@ -3,7 +3,7 @@
 
 # 👩🏻‍💻 Emanuel João
 
-**`Software Engineer | Desenvolvedor FullStack`** <br>
+**`Software Engineer | Desenvolvedor FullStack`** <br><br>
 Olá, seja bem-vindo ao meu perfil
 
 ---
