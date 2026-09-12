@@ -40,6 +40,19 @@ Este perfil acompanha minha evolução, meus projetos e minha trajetória no des
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
+
+<img 
+    align="left" 
+    alt="Sass" 
+    title="Sass"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+
+
+
 <img 
     align="left" 
     alt="JavaScript" 
