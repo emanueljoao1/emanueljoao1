@@ -9,8 +9,8 @@ Olá, seja bem-vindo ao meu perfil!<br>
 A tecnologia é, para mim, um espaço de criação, aprendizado e transformação.
 Busco desenvolver soluções digitais que unam lógica, criatividade e funcionalidade.
 Cada projeto representa uma oportunidade de resolver problemas e transformar ideias em código.
-Este perfil acompanha minha evolução, meus projetos e minha trajetória no desenvolvimento de software.
----
+Este perfil acompanha minha evolução, meus projetos e minha trajetória no desenvolvimento de software.e
+
 
 ###  Contacto
 
