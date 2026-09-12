@@ -1,14 +1,17 @@
 
 
 
-# 👩🏻‍💻 Emanuel João
+#  Emanuel João
 
 **`Software Engineer | Desenvolvedor FullStack`** <br><br>
-Olá, seja bem-vindo ao meu perfil
-
+Olá, seja bem-vindo ao meu perfil<br>
+A tecnologia é, para mim, um espaço de criação, aprendizado e transformação.
+Busco desenvolver soluções digitais que unam lógica, criatividade e funcionalidade.
+Cada projeto representa uma oportunidade de resolver problemas e transformar ideias em código.
+Este perfil acompanha minha evolução, meus projetos e minha trajetória no desenvolvimento de software.
 ---
 
-### 📫 Contacto
+###  Contacto
 
 <div> 
   <a href="https://www.linkedin.com/in/emanuel-jo%C3%A3o-595a6a341/" target="_blank">
@@ -18,7 +21,7 @@ Olá, seja bem-vindo ao meu perfil
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -101,24 +104,3 @@ Olá, seja bem-vindo ao meu perfil
 
 
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=emanuelJoao1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-pt" 
-  />
-
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueljoao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-<br/>
-<br/>
