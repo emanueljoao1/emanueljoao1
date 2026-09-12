@@ -3,11 +3,19 @@
 
 # 👩🏻‍💻 Emanuel João
 
-**`Estudante de Engenharia Informática | Desenvolvedor Front-End`**
+**`Software Engineer | Desenvolvedor FullStack`**
+Bem-vindo ao meu perfil, onde a paixão por aprender se transforma em código.
 
-Me chamo Emanuel João, tenho 22 anos e sou natural de Angola, Luanda. Concluí o ensino médio no colégio Loide Laura, com o curso técnico em informática. Atualmente, estou cursando Engenharia Informática no ISIA. Sou apaixonado por tecnologia, porque transformar problemas em soluções é o que me define.
+Programar, para mim, é mais do que escrever código. É uma forma de expressão, criação e resolução de problemas.
 
----
+Assim como um artista utiliza cores, formas e texturas para dar vida a uma obra, utilizo a tecnologia para transformar ideias em soluções concretas, funcionais e significativas. Cada projeto representa uma oportunidade de aprender, experimentar e evoluir.
+
+Vejo o código como uma ferramenta para criar, resolver problemas e transformar ideias em experiências reais. Gosto de explorar novas possibilidades, compreender diferentes tecnologias e desenvolver soluções que façam sentido para o mundo real.
+
+Este espaço representa a minha jornada como desenvolvedor: estudos, experiências, desafios, projetos, erros, acertos e, principalmente, evolução contínua na área de tecnologia.
+
+
+
 
 ### 📫 Contacto
 
