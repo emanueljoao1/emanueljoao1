@@ -62,14 +62,6 @@ Este perfil acompanha minha evolução, meus projetos e minha trajetória no des
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="NodeJS" 
-    title="NodeJS"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
-/>
 
 <img 
     align="left" 
@@ -79,6 +71,19 @@ Este perfil acompanha minha evolução, meus projetos e minha trajetória no des
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
+
+
+<img 
+    align="left" 
+    alt="NodeJS" 
+    title="NodeJS"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+/>
+
+
 <img 
     align="left" 
     alt="Bootstrap"
@@ -104,14 +109,7 @@ Este perfil acompanha minha evolução, meus projetos e minha trajetória no des
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+
 
 <br/>
 <br/>
